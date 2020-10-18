@@ -1,4 +1,4 @@
 name = "me"
-accept = false
+accept = true
 if name == "me":
-  accept = true
+  accept = false
